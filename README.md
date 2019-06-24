@@ -11,3 +11,7 @@
 
 ## Chosen Question
 > Find the longest substring of unique letters in a given string of n letters.
+
+- [whiteboard code](https://github.com/noltron000/whiteboard-practice/blob/master/whiteboard/img_20190619_114310.jpg)
+- [ported psuedocode](https://github.com/noltron000/whiteboard-practice/blob/dc3e73ca30b2ee5dee2cfcdeb581ede8de83c06d/source/unique.py)
+- [fixed up code](https://github.com/noltron000/whiteboard-practice/blob/master/source/unique.py)
